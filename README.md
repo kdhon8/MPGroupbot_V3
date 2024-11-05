@@ -2,7 +2,8 @@
 
 Roblox 그룹 [Republic of Korea Army](https://www.roblox.com/groups/3828960/Republic-of-Korea-Army#!/about)의 [군사경찰실 그룹](https://www.roblox.com/groups/4467904/ROKA-Military-Police#!/about)에서 사용하기 위해 제작된 그룹 관리 봇.
 
-## 주의사항
+## 사용 전 유의사항
+(해당 봇은 내부 사용 용도로 제작되었고 배포 목적이 아니기에 직접적인 기술 지원은 불가합니다)
 
 ### I. 사용 전 config.json을 설정해야 합니다
   1. 프로젝트 폴더 내에 config.json 파일 추가
