@@ -1,6 +1,6 @@
 # MP Groupbot V3
 
-Roblox 그룹 [Republic of Korea Army](https://www.roblox.com/groups/3828960/Republic-of-Korea-Army#!/about)에서 사용하기 위해 제작된 그룹봇.
+Roblox 그룹 [Republic of Korea Army](https://www.roblox.com/groups/3828960/Republic-of-Korea-Army#!/about)의 [군사경찰실 그룹](https://www.roblox.com/groups/4467904/ROKA-Military-Police#!/about)에서 사용하기 위해 제작된 그룹 관리 봇.
 
 ## 주의사항
 
